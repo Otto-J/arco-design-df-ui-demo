@@ -1,0 +1,25 @@
+{
+  "name": "arco-vue-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@arco-design/web-vue": "latest",
+    "@arco-themes/vue-digitforce": "latest",
+    "@dangojs/a-pro-components": "latest",
+    "@dangojs/digitforce-icons-vue": "latest",
+    "@dangojs/digitforce-ui": "latest",
+    "dayjs": "^1.0",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.2",
+    "@vitejs/plugin-vue-jsx": "^1.3.10",
+    "less": "^4.1.3",
+    "vite": "^2.9.8"
+  }
+}
